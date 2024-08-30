@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { Form } from 'antd';
 import { StyledButton, StyledInput } from 'components';
+import { Link } from 'react-router-dom';
 
 // Wrapper for the Sign-In page
 const SignInWrapper = styled.div`
@@ -26,6 +27,21 @@ const Heading = styled.h2`
   text-align: center;
   margin-bottom: 24px;
   color: ${({ theme }) => theme.primaryColor || '#532a6e'};
+`;
+
+// Styled signup link
+const SignupLink = styled.div`
+  margin-top: 16px;
+  text-align: center;
+
+  a {
+    color: ${({ theme }) => theme.primaryColor || '#532a6e'};
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 `;
 
 const SignIn = () => {
@@ -67,6 +83,11 @@ const SignIn = () => {
             </StyledButton>
           </Form.Item>
         </Form>
+        <SignupLink>
+          <p>
+            Don't have an account? <Link to='/signup'>Sign Up</Link>
+          </p>
+        </SignupLink>
       </FormContainer>
     </SignInWrapper>
   );

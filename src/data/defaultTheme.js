@@ -1,5 +1,3 @@
-import { Theme } from '~/types';
-
 export const Theme = {
   black: '#000000',
   blue: '#007bff',
