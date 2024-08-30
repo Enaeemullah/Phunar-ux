@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Unmudl_Newsroom">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Unmudl_Newsroom" data-name="Unmudl Newsroom" clip-path="url(#clip-Unmudl_Newsroom)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(5 5.002)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0 -0.002)">
+        <path id="Path_1" data-name="Path 1" d="M.333,6.09H2.049a.333.333,0,0,1,.336.333V16.717a1.191,1.191,0,0,1-1.194,1.189h0A1.191,1.191,0,0,1,0,16.712V6.418A.333.333,0,0,1,.333,6.09Z" transform="translate(0 -4.597)" fill="#fff"/>
+        <path id="Path_2" data-name="Path 2" d="M22.278,0H12.2a.471.471,0,0,0-.473.471c0,2.042-.022,10.049,0,11.24.027,1.36-.392,1.6-.392,1.6h9.478a1.961,1.961,0,0,0,1.961-1.961V.472A.471.471,0,0,0,22.278,0ZM20.421,9.834a.407.407,0,0,1-.407.407H14.46a.407.407,0,0,1-.407-.407h0a.407.407,0,0,1,.407-.4h5.554a.4.4,0,0,1,.407.4Zm0-2.358a.407.407,0,0,1-.407.407H14.46a.407.407,0,0,1-.407-.407h0a.407.407,0,0,1,.407-.4h5.554a.4.4,0,0,1,.407.4Zm0-2.355a.4.4,0,0,1-.407.4H14.46a.407.407,0,0,1-.407-.4h0a.407.407,0,0,1,.407-.407h5.554A.407.407,0,0,1,20.421,5.121Zm0-2.412a.407.407,0,0,1-.407.407H14.46a.407.407,0,0,1-.407-.407h0a.407.407,0,0,1,.407-.4h5.554a.4.4,0,0,1,.407.4Z" transform="translate(-8.13 0.002)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

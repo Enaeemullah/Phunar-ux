@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <filter id="Oval_2" x="0" y="0" width="59" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.427"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Next_Btn" data-name="Next Btn" transform="translate(4.5 3.5)">
+    <g transform="matrix(1, 0, 0, 1, -4.5, -3.5)" filter="url(#Oval_2)">
+      <circle id="Oval_2-2" data-name="Oval 2" cx="25" cy="25" r="25" transform="translate(4.5 3.5)" fill="#fff"/>
+    </g>
+    <path id="Arrow-right_-_simple-line-icons" data-name="Arrow-right - simple-line-icons" d="M.684,20a.729.729,0,0,1-.264-.049A.64.64,0,0,1,.2,19.8a.661.661,0,0,1,0-.938L9.13,9.932.332,1.153a.651.651,0,0,1-.2-.479A.651.651,0,0,1,.332.2.651.651,0,0,1,.811,0,.651.651,0,0,1,1.29.2l9.247,9.267a.661.661,0,0,1,0,.938L1.153,19.8a.64.64,0,0,1-.225.147A.68.68,0,0,1,.684,20Z" transform="translate(20.125 15)" fill="#484848" stroke="#532a6e" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

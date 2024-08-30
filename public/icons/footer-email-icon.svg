@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Email">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Email" clip-path="url(#clip-Email)">
+    <g id="envelope" transform="translate(4.5 -57.625)">
+      <g id="Group_3737" data-name="Group 3737" transform="translate(0 64)">
+        <g id="Group_3736" data-name="Group 3736">
+          <path id="Path_5476" data-name="Path 5476" d="M7.024,64.913c2.059,1.743,5.671,4.811,6.733,5.767a.627.627,0,0,0,.907,0c1.063-.957,4.675-4.025,6.734-5.768a.312.312,0,0,0,.044-.431A1.241,1.241,0,0,0,20.461,64H7.961a1.241,1.241,0,0,0-.981.482.312.312,0,0,0,.044.431Z" transform="translate(-6.711 -64)" fill="#fff"/>
+          <path id="Path_5477" data-name="Path 5477" d="M14.819,126.441a.311.311,0,0,0-.333.045c-2.283,1.935-5.2,4.416-6.114,5.242a1.265,1.265,0,0,1-1.744,0c-.977-.88-4.249-3.662-6.113-5.242a.312.312,0,0,0-.515.238v7.859a1.251,1.251,0,0,0,1.25,1.25h12.5a1.251,1.251,0,0,0,1.25-1.25v-7.859a.312.312,0,0,0-.181-.283Z" transform="translate(0 -124.583)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

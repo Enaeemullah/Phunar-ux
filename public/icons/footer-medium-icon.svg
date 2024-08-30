@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Medium">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Medium" clip-path="url(#clip-Medium)">
+    <path id="medium-2" data-name="medium" d="M11.624,3.675l1.008-.964V2.5H9.14L6.652,8.694,3.821,2.5H.159v.211L1.337,4.128A.494.494,0,0,1,1.5,4.54v5.57a.635.635,0,0,1-.17.553L0,12.271v.208H3.761v-.211l-1.326-1.6a.655.655,0,0,1-.183-.553V5.293l3.3,7.189h.384L8.775,5.293V11.02c0,.151,0,.182-.1.281l-1.021.988V12.5h4.954v-.211l-.984-.964a.293.293,0,0,1-.113-.281V3.956a.292.292,0,0,1,.112-.281Z" transform="translate(5.684 4.5)" fill="#fff"/>
+  </g>
+</svg>

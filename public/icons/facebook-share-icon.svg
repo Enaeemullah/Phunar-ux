@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <filter id="Ellipse_53" x="0" y="0" width="55" height="55" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Facebook_Sahre" data-name="Facebook Sahre" transform="translate(-36 -760)">
+    <g transform="matrix(1, 0, 0, 1, 36, 760)" filter="url(#Ellipse_53)">
+      <g id="Ellipse_53-2" data-name="Ellipse 53" transform="translate(9 6)" fill="#fff" stroke="#532a6e" stroke-width="1">
+        <circle cx="18.5" cy="18.5" r="18.5" stroke="none"/>
+        <circle cx="18.5" cy="18.5" r="18" fill="none"/>
+      </g>
+    </g>
+    <path id="XMLID_835_" d="M76.985,9.32H78.9v7.9a.282.282,0,0,0,.282.282h3.253a.282.282,0,0,0,.282-.282V9.358h2.205a.282.282,0,0,0,.28-.25L85.541,6.2a.282.282,0,0,0-.28-.315h-2.54V4.063c0-.549.3-.828.879-.828h1.661a.282.282,0,0,0,.282-.282V.284A.282.282,0,0,0,85.261,0H82.972c-.016,0-.052,0-.1,0A4.386,4.386,0,0,0,80,1.081a3.008,3.008,0,0,0-1,2.673V5.886H76.985a.282.282,0,0,0-.282.282v2.87A.282.282,0,0,0,76.985,9.32Z" transform="translate(-17.703 776)" fill="#532a6e"/>
+  </g>
+</svg>

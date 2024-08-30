@@ -1,0 +1,13 @@
+<svg id="In_person_Course" data-name="In person Course" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Bounding_Box">
+    <rect id="Rectangle_1175" data-name="Rectangle 1175" width="20" height="20" fill="none"/>
+  </g>
+  <g id="Flat" transform="translate(0.847 3.389)">
+    <g id="Group_2796" data-name="Group 2796">
+      <path id="Path_5155" data-name="Path 5155" d="M16.67,13.13a3.94,3.94,0,0,1,1.974,3.279V18.95h3.389V16.409C22.033,14.562,19.008,13.469,16.67,13.13Z" transform="translate(-3.394 -5.395)" fill="#656565"/>
+      <path id="Path_5156" data-name="Path 5156" d="M14.8,10.778A3.389,3.389,0,1,0,14.8,4a3.54,3.54,0,0,0-1.127.2,5.066,5.066,0,0,1,0,6.371A3.54,3.54,0,0,0,14.8,10.778Z" transform="translate(-2.936 -4)" fill="#656565"/>
+      <path id="Path_5157" data-name="Path 5157" d="M8.389,10.778A3.389,3.389,0,1,0,5,7.389,3.388,3.388,0,0,0,8.389,10.778Zm0-5.083A1.694,1.694,0,1,1,6.694,7.389,1.7,1.7,0,0,1,8.389,5.694Z" transform="translate(-1.611 -4)" fill="#656565"/>
+      <path id="Path_5158" data-name="Path 5158" d="M7.778,13C5.516,13,1,14.135,1,16.389V18.93H14.555V16.389C14.555,14.135,10.04,13,7.778,13Zm5.083,4.236H2.694V16.4c.169-.61,2.8-1.7,5.083-1.7s4.914,1.093,5.083,1.694Z" transform="translate(-1 -5.375)" fill="#656565"/>
+    </g>
+  </g>
+</svg>

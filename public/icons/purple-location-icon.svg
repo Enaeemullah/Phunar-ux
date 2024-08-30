@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Location_Icon" data-name="Location Icon" transform="translate(-19 -65)">
+    <rect id="Rectangle_1300" data-name="Rectangle 1300" width="30" height="30" rx="2" transform="translate(19 65)" fill="rgba(83,42,110,0.05)"/>
+    <g id="Send_Location" data-name="Send Location" transform="translate(29 73)">
+      <circle id="Ellipse_68" data-name="Ellipse 68" cx="1.978" cy="1.978" r="1.978" transform="translate(3.347 3.408)" fill="none" stroke="#532a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_5457" data-name="Path 5457" d="M18.843,5.88a2.007,2.007,0,0,0-.025-.316A5.172,5.172,0,0,0,8.5,6.134v.022a5.056,5.056,0,0,0,.842,2.7l4.33,5.707,4.276-5.573a5.285,5.285,0,0,0,.9-3.114Z" transform="translate(-8.499 -0.9)" fill="none" stroke="#532a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
